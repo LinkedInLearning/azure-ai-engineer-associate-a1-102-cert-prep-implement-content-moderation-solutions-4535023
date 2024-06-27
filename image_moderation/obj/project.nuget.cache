@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "uAfbd2//cp0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gerry\\OneDrive\\LinkedIn Learning\\AI-102 Decision Support Solutions\\AI-102-CM-Demos\\image_moderation\\image_moderation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerry\\.nuget\\packages\\azure.ai.contentsafety\\1.0.0\\azure.ai.contentsafety.1.0.0.nupkg.sha512",
+    "C:\\Users\\gerry\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
+    "C:\\Users\\gerry\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\gerry\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\gerry\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\gerry\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\gerry\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\gerry\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\gerry\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\gerry\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
